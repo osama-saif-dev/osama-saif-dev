@@ -8,7 +8,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=osama78s&color=blue&style=flat-square&label=Profile+Views)](https://github.com/osama78s)
 
 - 🤷‍♂️ Full Stack Developer
-- 👨‍💻 Mern Stack And Php Laravel (Backend)
+- 👨‍💻 Mern Stack And Php Laravel (backend)
 - 📩 How to reach me: **osamasaif242@gmail.com**
 - 📖 Fun fact: **I always love learning**
 ### My Skils :
@@ -17,7 +17,7 @@ Javascript, Typescript, React.js, Redux Toolkite, React Query, Zustand, Framer M
 OOP, MVC, Php, Laravel (backend), Mysql, Sql, Node.js, Express.js, MongoDb
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/osama-saif-29932b295/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-saif-29932b295/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/osama.saif.416909)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/osama78s)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:osamasaif242@gmail.com)
