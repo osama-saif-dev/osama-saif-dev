@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Osama Saif 👋</h1>
 <h3 align="center" ><a href="https://www.linkedin.com/in/osama-saif-29932b295/"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=65F780&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a></h3>
 
-[![Profile views](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://osama78s.github.io/_Portfolio/)
+![Profile views](https://komarev.com/ghpvc/?username=osama78s&color=blue&style=flat-square&label=Profile+Views)
+
 
 - 🤷‍♂️ Full Stack Developer
 - 👨‍💻 Mern Stack And Php Laravel (Backend)
