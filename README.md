@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Osama Saif 👋</h1>
-<p align="center">
+<h3 align="center"></h3>
+<div align="center">
     <a href="https://www.linkedin.com/in/osama-saif-29932b295/">
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=65F780&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
     </a>
-</p>
+</div>
 
 [![Profile views](https://komarev.com/ghpvc/?username=osama78s&color=blue&style=flat-square&label=Profile+Views)](https://github.com/osama78s)
 
@@ -17,8 +18,8 @@ Javascript, Typescript, React.js, Redux Toolkite, React Query, Zustand, Framer M
 OOP, MVC, Php, Laravel (backend), Mysql, Sql, Node.js, Express.js, MongoDb
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/osama-saif-29932b295/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/osama.saif.416909)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-saif-29932b295/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/osama.saif.416909)
 
 <!--
 **osama78s/osama78s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
