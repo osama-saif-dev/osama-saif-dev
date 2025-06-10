@@ -1,9 +1,9 @@
 <div align="center">
     <h1>Hi , I'm Osama Saif 👋</h1>
+</div>
     <a href="https://www.linkedin.com/in/osama-saif-29932b295/">
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=65F780&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
     </a>
-</div>
 
 [![Profile views](https://komarev.com/ghpvc/?username=osama78s&color=blue&style=flat-square&label=Profile+Views)](https://github.com/osama78s)
 
