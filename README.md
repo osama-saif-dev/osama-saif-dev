@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=65F780&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
     </a>
 
-[![Profile views](https://komarev.com/ghpvc/?username=osama78s&color=blue&style=flat-square&label=Profile+Views)](https://github.com/osama-saif-dev)
+[![Profile views](https://komarev.com/ghpvc/?username=osama-saif-dev&color=blue&style=flat-square&label=Profile+Views)](https://github.com/osama-saif-dev)
 
 - 🤷‍♂️ Full Stack Developer
 - 👨‍💻 Mern Stack And Php Laravel (backend)
